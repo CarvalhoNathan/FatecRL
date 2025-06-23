@@ -4,6 +4,8 @@ Programa que exibe o nome da FATEC Rubens Lara - Faculdade de Tecnologia da Baix
 ## 🎓 Sobre o Curso — Sistemas para Internet | FATEC Rubens Lara
 O curso de Sistemas para Internet da **FATEC Rubens Lara** forma profissionais preparados para criar soluções digitais inovadoras e seguras. Durante a formação, o aluno aprende a desenvolver sistemas web completos, aplicativos, e-commerces, portais e plataformas digitais, além de trabalhar com gestão de projetos, banco de dados, integração de mídias e segurança da informação.
 
+---
+
 ### O curso também oferece sólida base em tecnologias emergentes, como:
 
 - 🌐 Computação móvel
@@ -20,6 +22,8 @@ Além da criação e manutenção de sistemas, o tecnólogo cuida da implantaç�
 - Empreendimentos próprios e startups de tecnologia
 
 O curso também abre portas para quem deseja empreender ou criar projetos pessoais na área de tecnologia.
+
+---
 
 ### 📍 Localização da FATEC Rubens Lara
 A FATEC Rubens Lara está localizada em Santos, São Paulo, oferecendo ensino de qualidade e estrutura de ponta.
